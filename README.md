@@ -112,3 +112,11 @@ Interacting with MediBot is simple:
 
 
 ![Screenshot (273)](https://github.com/obula-sai/ChatBot/assets/110908237/67d4e8f6-7fc0-4a1c-b1ac-c7551fa7763f)
+
+
+
+
+https://github.com/obula-sai/ChatBot/assets/110908237/4ce91567-4ddc-4e44-80f9-27c6c35c2ce0
+
+
+
