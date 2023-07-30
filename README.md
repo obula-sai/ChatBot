@@ -5,7 +5,6 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Key Features and Customization](#key-features-and-customization)
-- [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 
 
